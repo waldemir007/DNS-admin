@@ -1,0 +1,18 @@
+# Arquivos de configuração com senhas
+config/database.php
+
+# Cache gerado
+cache/*.json
+cache/*
+
+# Logs
+*.log
+
+# Chart.js (baixado pelo script)
+public/assets/js/chart.min.js
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak

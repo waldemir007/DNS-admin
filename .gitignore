@@ -1,0 +1,7 @@
+config/database.php
+cache/*.json
+cache/*
+*.log
+public/assets/js/chart.min.js
+.DS_Store
+Thumbs.db
