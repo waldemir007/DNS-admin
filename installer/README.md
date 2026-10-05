@@ -1,6 +1,6 @@
 # Instalador Automático — DNS Admin
 
-Script de instalação automática do **DNS Admin v1.0.3** em servidores Debian 12.
+Script de instalação automática do **DNS Admin v1.0.3** em servidores Debian 12 e 13.
 
 ## 📋 O que ele faz
 
